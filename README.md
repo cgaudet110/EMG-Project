@@ -1,2 +1,2 @@
-# ECG-Project
+# EMG-Project
 Artificial Neural Networks and Deep Learning Final Project
